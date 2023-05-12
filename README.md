@@ -11,5 +11,5 @@ Description of this project :
  * fast cash 
 
 
-We have Created a full documentation about this full project and how the above things are working , how th project is
+We have created a full documentation about this full project and how the above things are working , how the project is
 running in Documentattion_BMS.docx file

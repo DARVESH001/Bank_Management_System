@@ -9,3 +9,7 @@ Description of this project :
  * producing a mini bank statement to track the transaction 
  * changing pin 
  * fast cash 
+
+
+We have Created a full documentation about this full project and how the above things are working , how th project is
+running in Documentattion_BMS.docx file
